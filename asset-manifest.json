@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SolveEq/static/css/main.dedf68ca.css",
-    "main.js": "/SolveEq/static/js/main.d8ad6f7c.js",
-    "static/js/377.2a673467.chunk.js": "/SolveEq/static/js/377.2a673467.chunk.js",
-    "index.html": "/SolveEq/index.html",
-    "main.dedf68ca.css.map": "/SolveEq/static/css/main.dedf68ca.css.map",
-    "main.d8ad6f7c.js.map": "/SolveEq/static/js/main.d8ad6f7c.js.map",
-    "377.2a673467.chunk.js.map": "/SolveEq/static/js/377.2a673467.chunk.js.map"
+    "main.css": "/SolvEq/static/css/main.dedf68ca.css",
+    "main.js": "/SolvEq/static/js/main.da250c42.js",
+    "static/js/377.2a673467.chunk.js": "/SolvEq/static/js/377.2a673467.chunk.js",
+    "index.html": "/SolvEq/index.html",
+    "main.dedf68ca.css.map": "/SolvEq/static/css/main.dedf68ca.css.map",
+    "main.da250c42.js.map": "/SolvEq/static/js/main.da250c42.js.map",
+    "377.2a673467.chunk.js.map": "/SolvEq/static/js/377.2a673467.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dedf68ca.css",
-    "static/js/main.d8ad6f7c.js"
+    "static/js/main.da250c42.js"
   ]
 }
